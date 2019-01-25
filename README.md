@@ -21,7 +21,7 @@
 
 ### Infrastructure 
 
-- Pivotal Web Services
+- Pivotal App Services
 
 ### Configuration Management
 
