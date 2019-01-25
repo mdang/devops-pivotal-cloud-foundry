@@ -23,10 +23,18 @@
 
 - Pivotal Web Services
 
+### Configuration Management
+
+- TBD: Chef, Puppet
+
 ### Containers 
 
 - Docker
 - Pivotal Container Service 
+
+### Binary Repository 
+
+- TBD: Artifactory, Nexus
 
 ### CI / CD 
 
