@@ -23,14 +23,14 @@
 
 - Pivotal Web Services
 
-### CI / CD 
-
-- Concourse 
-
 ### Containers 
 
 - Docker
 - Pivotal Container Service 
+
+### CI / CD 
+
+- Concourse 
 
 ### Logs & Monitoring 
 
