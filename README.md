@@ -1,17 +1,17 @@
 # DevOps: Pivotal Cloud Foundry
 
-## Application
+### Application
 
 - Java
 - Spring Boot 
 
-## Build 
+### Build 
 
 - Gradle 
 
 ## Toolchain
 
-## Infrastructure 
+### Infrastructure 
 
 - Pivotal Web Services
 
