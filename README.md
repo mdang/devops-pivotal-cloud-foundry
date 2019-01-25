@@ -26,4 +26,4 @@
 
 ### Logs & Monitoring 
 
-- Pivotal Web Services
+- Pivotal Cloud Foundry Metrics
