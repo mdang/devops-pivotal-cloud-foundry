@@ -15,6 +15,10 @@
 
 - Pivotal Tracker
 
+### Version Control
+
+- Git
+
 ### Infrastructure 
 
 - Pivotal Web Services
